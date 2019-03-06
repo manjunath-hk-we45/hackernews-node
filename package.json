@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/manjunath-hk-we45/hackernews-node#readme",
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "graphql-yoga": "^1.17.4",
+    "prisma": "^1.28.0",
+    "prisma-cli": "^1.0.9",
+    "prisma-client-lib": "^1.28.0"
   }
 }
